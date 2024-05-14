@@ -1,0 +1,6 @@
+framework module insta_assets_crop {
+  umbrella header "insta_assets_crop-umbrella.h"
+
+  export *
+  module * { export * }
+}
